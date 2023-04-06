@@ -20,10 +20,16 @@
 
 
 ## Description
+  * This challenge is intended for the student to review the concepts introduced in this week.
+  * Create a node to drive the gazebo simulated robot in a square path of a side length 2 m.
+  * Use the same node to move the real robot in a square of side length 2 m.
+  * Create a node that creates a path for the robot to follow.
+      - The node must take as an input some points defined by the user, alongside the speeds of the robot or the time required for the robot to reach the point
+      - The node must then, estimate the velocities or the time required for the robot to reach the point.  
 
 
 ## Notes
-
+ * Both acitvities must be performed in the real robot and the gazebo simulation.
 
   - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
  folders 
