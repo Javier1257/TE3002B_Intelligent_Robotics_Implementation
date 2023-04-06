@@ -11,7 +11,7 @@
 </picture>
 
 ---
-# TE3002B_Intelligent_Robotics_Implementation
+# TE3002B Intelligent Robotics Implementation
 
   ## Introduction
    * This course, developed by Manchester Robotics ltd. (MCR2), aims to provide students with understanding of modern autonomous systems.
