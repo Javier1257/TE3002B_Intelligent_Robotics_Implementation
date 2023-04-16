@@ -12,17 +12,15 @@
 
 
 ---
-# Week 1: Presentations.
+# Week 3: Presentations.
 
   * In this folder you will find the presentation used during this course
 
 ---
   ## Presentations
   
-   ### MCR2_Introduction
-   * This presentation covers the general aspects of mobile robotics, providing some examples and what make a mobile robot.
+   ### MCR2_Closed_Loop_Control
+   * This presentation covers the basics of mobile robotics and how to control a mobile robot using a closed loop strategy.
 
-   ### MCR2_Introduction
-   * This presentation covers the basics of mobile robotics and how to control a mobil robot using an open loop strategy.
 
   

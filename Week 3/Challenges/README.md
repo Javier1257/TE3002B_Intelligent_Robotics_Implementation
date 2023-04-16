@@ -13,19 +13,18 @@
 
 ---
 
-# Week 1: Mini challenge
+# Week 3: Mini challenge
 
-* In this folder, the student will find the neccessary files for Mini challenge 1.
-* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge1*
+* In this folder, the student will find the neccessary files for Mini challenge 2.
+* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge2*
 
 
 ## Description
   * This challenge is intended for the student to review the concepts introduced in this week.
-  * Create a node to drive the gazebo simulated robot in a square path of a side length 2 m.
-  * Use the same node to move the real robot in a square of side length 2 m.
-  * Create a node that creates a path for the robot to follow.
-      - The node must take as an input some points defined by the user, alongside the speeds of the robot or the time required for the robot to reach the point
-      - The node must then, estimate the velocities or the time required for the robot to reach the point.  
+  * Create a node to drive the real robot and the gazebo simulated robot in a square path of a side length 2 m, using a closed loop control strategy.
+  * Create a path generator node, that publishes the current and next goal once the robot completes the current goal.
+  * Make the controller robust.
+
 
 
 ## Notes

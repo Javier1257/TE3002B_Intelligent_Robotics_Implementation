@@ -11,26 +11,23 @@
 </picture>
 
 ---
-# TE3002B Week 1: Introductory session.
+# TE3002B Week 3: Closed Loop Control.
 ---
  
- This week will introduce the teaching team and the basics of mobile robotics control.
+ This week will introduce the basics of mobile robotics control.
  
   ## Session 1
-  * Course Introduction.
-  *	Mobile Robotics
   * Robot Control:
-    - Open Loop Control of the Puzzlebot (Theory/Activity)
+    - Closed Loop Control of the Puzzlebot (Theory/Activity)
+  *	Q&A.
 
   
   ## Session 2
-  * Robot Control:
-    - Open Loop Control of the Puzzlebot (Theory/Activity)
   *	Q&A.
 
 
   ## Mini Challenge
-  *	Multi point navigation with open Loop control.
+  *	Multi point navigation with closed loop control.
 
   Please note: This repository contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
 
