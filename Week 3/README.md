@@ -33,6 +33,11 @@
 
 ---
 
+## YouTube Video
+[Closed Loop Control Video](https://www.youtube.com/watch?v=vBDHNeUKEYU)
+
+---
+
 ### Useful Links: 
 
 #### Robotics and Control
