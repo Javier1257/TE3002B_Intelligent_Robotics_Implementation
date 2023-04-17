@@ -13,7 +13,7 @@
 
 ---
 
-# Week 1: Mini challenge
+# Week 2: Mini challenge
 
 * In this folder, the student will find the neccessary files for Mini challenge 1.
 * The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge1*
