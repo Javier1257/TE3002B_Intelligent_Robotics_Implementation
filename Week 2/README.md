@@ -11,7 +11,7 @@
 </picture>
 
 ---
-# TE3002B Week 1: Introductory session.
+# TE3002B Week 2: Introductory session.
 ---
  
  This week will introduce the teaching team and the basics of mobile robotics control.
