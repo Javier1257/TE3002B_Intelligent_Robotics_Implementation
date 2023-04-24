@@ -11,23 +11,29 @@
 </picture>
 
 ---
-# TE3002B Week 3: Closed Loop Control.
+# TE3002B Week 4: OpenCV in ROS.
 ---
  
- This week will introduce the basics of mobile robotics control.
+ This week will introduce the basics of robot vision and control.
  
   ## Session 1
-  * Robot Control:
-    - Closed Loop Control of the Puzzlebot (Theory/Activity)
+  * Introduction:
+    - Basic Introduction to OpenCV.
+    - Introduction to OpenCV in ROS
+    - Activity to process an image in ROS.
   *	Q&A.
 
   
   ## Session 2
+  - Colour filtering
+  - Thresholding
+  - Morphological operators
+  - Blob Detection
   *	Q&A.
 
 
   ## Mini Challenge
-  *	Multi point navigation with closed loop control.
+  *	Multipoint Navigation with traffic light detection.
 
   Please note: This repository contains all the neccesary files and presentations given during this session and the instructions for each one of the activities of the session.
 

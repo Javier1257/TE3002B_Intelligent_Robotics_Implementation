@@ -19,8 +19,10 @@
 ---
   ## Presentations
   
-   ### MCR2_Closed_Loop_Control
-   * This presentation covers the basics of mobile robotics and how to control a mobile robot using a closed loop strategy.
+   ### MCR2_OpenCV_in_ROS
+   * This presentation covers a basic introduction of vision algorithms in mobile robotics.
 
+   ### MCR2_Jetson_Tutorial
+   * Introduction to the Jetson Nano by MCR2
 
   
