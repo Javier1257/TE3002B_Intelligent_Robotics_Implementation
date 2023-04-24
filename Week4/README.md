@@ -39,6 +39,11 @@
 
 ---
 
+## YouTube Video
+[OpenCV Video](https://www.youtube.com/watch?v=xrpC3FEfINw)
+
+---
+
 ### Useful Links: 
 
 #### Robotics and Control
