@@ -12,17 +12,12 @@
 
 
 ---
-# Week 3: Presentations.
+# Week 6: Presentations.
 
   * In this folder you will find the presentation used during this course
 
 ---
   ## Presentations
   
-   ### MCR2_OpenCV_in_ROS
-   * This presentation covers a basic introduction of vision algorithms in mobile robotics.
-
-   ### MCR2_Jetson_Tutorial
-   * Introduction to the Jetson Nano by MCR2
-
-  
+   ### MCR2_Line_Following
+   * This presentation covers a basic introduction of vision algorithms in mobile robotics applied towards Line Following Algorithms.
