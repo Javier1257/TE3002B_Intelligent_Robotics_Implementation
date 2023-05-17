@@ -13,7 +13,7 @@
 
 ---
 
-# Week 4: Mini challenge
+# Week 6: Mini challenge
 
 * In this folder, the student will find the neccessary files for Mini challenge 4.
 * The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge4*
@@ -21,6 +21,8 @@
 
 ## Description
   * This challenge is intended for the student to review the concepts introduced in this week.
+  * This challenge aims to show the behaviour of vision systems in mobile robotics.
+  * This challenge will be divided in different sections. 
 
 
 
