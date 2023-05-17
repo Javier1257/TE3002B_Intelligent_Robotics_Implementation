@@ -15,8 +15,8 @@
 
 # Week 4: Mini challenge
 
-* In this folder, the student will find the neccessary files for Mini challenge 4.
-* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge4*
+* In this folder, the student will find the neccessary files for Mini challenge 3.
+* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge3*
 
 
 ## Description
