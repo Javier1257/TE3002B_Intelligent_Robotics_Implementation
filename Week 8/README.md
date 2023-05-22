@@ -17,7 +17,7 @@
  This week will introduce the **MCR2 / NVIDIA / Tec de Monterrey Final Challenge.**
 
  ##### :alarm_clock: Challenge Deadline 
- The Dealine is on the 15 June 2023
+ The Deadline is June 15th 2023
  
  [Timer](https://free.timeanddate.com/countdown/i8uzgn8i/n155/cf100/cm0/cu5/ct0/cs1/ca0/co1/cr0/ss0/cac09f/cpc000/pcfff/tc66c/fs100/szw448/szh189/tatMCR2%20Final%20Challenge/tac000/tptStart!/tpc000/iso2023-06-15T13:00:00)
 
@@ -32,9 +32,9 @@
   * Q&A
 
   ## Final Challenge
-  * Files required for te final challenge can be found in the folder *Final Challenge Files*.
+  * Files required for the final challenge can be found in the folder *Final Challenge Files*.
 
-  Please note: This repository contains all the neccesary files and presentations the final challenge.
+  Please note: This repository contains all the necessary files and presentations for the final challenge.
 
 ---
 
