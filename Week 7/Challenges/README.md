@@ -13,8 +13,8 @@
 
 ---
 
-# Week 6: Mini challenge
-
+# Week 7: Mini challenge
+<!--
 * In this folder, the student will find the neccessary files for Mini challenge 4.
 * The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge4*
 
@@ -48,3 +48,4 @@
   * All the students must be respectful towards each other and abide by the previously defined rules.
   * Manchester robotics reserves the right to provide any form of grading. Grading and grading methodology are done by the professor in charge of the unit.
   
+-->
