@@ -17,7 +17,7 @@
  This week will introduce the basics of Neural Networks and its implementation on the Puzzlebot.
  
   ## Files for this session
-  * [Files](https://www.dropbox.com/s/0td8i9evhs3yyi8/yolo_rec.tar.xz?dl=0)
+  * yolo_rec [Files](https://www.dropbox.com/s/0td8i9evhs3yyi8/yolo_rec.tar.xz?dl=0)
 
   ## Session 1
   *	Introduction to neural networks
