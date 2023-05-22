@@ -19,5 +19,3 @@
 ---
   ## Presentations
   
-   ### MCR2_Line_Following
-   * This presentation covers a basic introduction of vision algorithms in mobile robotics applied towards Line Following Algorithms.
