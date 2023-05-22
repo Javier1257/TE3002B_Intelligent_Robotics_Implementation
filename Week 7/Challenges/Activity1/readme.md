@@ -26,11 +26,7 @@ To start the activity do the following steps
 ## Torubleshoot 
 
 We have detected some cases where the version installed by pip is not the latest and that crashes the load model command.
-
 The version that we used in the course is `2.6.2` in python `3.6.9`
-
-
-
 
 ## Notes
  * All acitvities must be performed in the real robot and the gazebo simulation.
@@ -52,8 +48,6 @@ The version that we used in the course is `2.6.2` in python `3.6.9`
   * Improvements to the algorithms are encouraged and may be used as long as the students provide the reasons and a detailed explanation on the improvements.
   * All the students must be respectful towards each other and abide by the previously defined rules.
   * Manchester robotics reserves the right to provide any form of grading. Grading and grading methodology are done by the professor in charge of the unit.
-
-
 
 
 <!--
