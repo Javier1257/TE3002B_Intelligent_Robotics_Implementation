@@ -29,9 +29,7 @@ We have detected some cases where the version installed by pip is not the latest
 The version that we used in the course is `2.6.2` in python `3.6.9`
 
 ## Notes
- * All acitvities must be performed in the real robot and the gazebo simulation.
-
-  - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
+  - Remember to make nodes executable (if applicable) using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
  folders 
 ```
  chmod +x signal_generator.py
