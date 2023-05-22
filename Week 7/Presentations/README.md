@@ -12,12 +12,11 @@
 
 
 ---
-# Week 6: Presentations.
+# Week 7: Presentations.
 
   * In this folder you will find the presentation used during this course
 
 ---
   ## Presentations
   
-   ### MCR2_Line_Following
-   * This presentation covers a basic introduction of vision algorithms in mobile robotics applied towards Line Following Algorithms.
+   ### MCR2_
