@@ -13,28 +13,25 @@
 
 ---
 
-# Week 6: Mini challenge
+# Week 8: Final challenge
 
-* In this folder, the student will find the neccessary files for Mini challenge 4.
-* The instruction for this challenge can be found inside the presentation *MCR2_MiniChallenge4*
+* In this folder, the student will find the neccessary files for the Final Challenge.
 
 
 ## Description
-  * This challenge is intended for the student to review the concepts introduced in this week.
-  * This challenge aims to show the behaviour of vision systems in mobile robotics.
-  * This challenge will be divided in different sections. 
-
+  * This challenge is intended for the student to review the concepts introduced in this course.
+  * This challenge aims to show the behaviour of Control, Localisation, Vision and Neural Networks in mobile robotics.
 
 
 
 ## Notes
- * Both acitvities must be performed in the real robot and the gazebo simulation.
+ * All acitvities must be performed in the real robot.
+ * A gazebo simulator is provided for testing purposes.
 
-  - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
+    - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
  folders 
 ```
- chmod +x signal_generator.py
- chmod +x process.py
+ chmod +x $SCRIPT.py
 ```
 
 ## Rules
