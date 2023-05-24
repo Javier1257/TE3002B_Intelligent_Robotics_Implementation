@@ -1,5 +1,19 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/TE3002B_Intelligent_Robotics_Implementation/blob/main/Misc/Logos/Logotipo%20Vertical%20Bco_Transparente.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3002B_Intelligent_Robotics_Implementation/blob/main/Misc/Logos/Logotipo%20Vertical%20Azul%20transparente.png">
+  <img alt="Shows ITESM logo in black or white." width="160" align="right">
+</picture>
 
-# Gazebo Simulation for Challenge
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/TE3002B_Intelligent_Robotics_Implementation/blob/main/Misc/Logos/MCR2_Logo_White.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/TE3002B_Intelligent_Robotics_Implementation/blob/main/Misc/Logos/MCR2_Logo_Black.png">
+  <img alt="Shows MCR2 logo in black or white." width="150" align="right">
+</picture>
+
+
+---
+
+# Gazebo Simulator for Challenge
 This package contains the gazebo simulation files to run the robot model and the track for the Manchester Robotics - Tec Challenge 2022 for the Robotica inteligente lecture.
  
 ## Installation
@@ -68,3 +82,8 @@ You can also raise a Git Issue if you have question, issues or doubts.
 - Wide angle plugin paramters - https://classic.gazebosim.org/tutorials?tut=wide_angle_camera&cat=
  
 ### Good luck and may the odds ever be in your favor!!!
+
+
+
+## Diclaimer
+ *THE PIECES AND IMAGES SHOWN HERE ARE FOR INFORMATIVE PURPOSES ONLY. THE DESIGN IS PROPRIETARY AND CONFIDENTIAL TO MANCHESTER ROBOTICS LTD. (MCR2). THE INFORMATION, CODE OR SIMULATORS CONTAINED IN THIS REPOSITORY IS THE SOLE PROPERTY OF MANCHESTER ROBOTICS LTD. ANY REPRODUCTION IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF MANCHESTER ROBOTICS LTD. IS STRICTLY PROHIBITED*
