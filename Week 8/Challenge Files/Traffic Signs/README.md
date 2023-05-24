@@ -13,35 +13,14 @@
 
 ---
 
-# Week 8: Final challenge
+# Traffic Signs
 
-* In this folder, the student will find the neccessary files for the Final Challenge.
-
-
-## Description
-  * This challenge is intended for the student to review the concepts introduced in this course.
-  * This challenge aims to show the behaviour of Control, Localisation, Vision and Neural Networks in mobile robotics.
-
+* In this folder, the student will find the traffic signs used in the Puzzletrack for this challenge and their assembly instructions.
 
 
 ## Notes
- * All acitvities must be performed in the real robot.
- * A gazebo simulator is provided for testing purposes.
+ *THE PIECES SHOWN HERE ARE FOR INFORMATIVE PURPOSES ONLY. THE DESIGN IS PROPRIETARY AND CONFIDENTIAL TO MANCHESTER ROBOTICS LTD. (MCR2). THE INFORMATION CONTAINED IN THIS DRAWING IS THE SOLE PROPERTY OF MANCHESTER ROBOTICS LTD. ANY REPRODUCTION IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF MANCHESTER ROBOTICS LTD. IS STRICTLY PROHIBITED*
 
-    - Remember to make the nodes executable using the the following command inside the catkin_ws/src/basic_comms/src and catkin_ws/src/basic_comms/src
- folders 
-```
- chmod +x $SCRIPT.py
-```
 
-## Rules
-  * This is challenge not a class. The students are encouraged to research, improve tune explain their algorithms by themselves.
-  * MCR2(Manchester Robotics) Reserves the right to answer a question if it is determined that the questions contains partially or totally an answer.
-  * The students are welcomed to ask only about the theoretical aspect of the classed.
-  * No remote control or any other form of human interaction with the simulator or ROS is allowed (except at the start when launching the files).
-  * It is forbidden to use any other internet libraires with the exception of standard libraires or NumPy.
-  * If in doubt about libraires please ask any teaching assistant.
-  * Improvements to the algorithms are encouraged and may be used as long as the students provide the reasons and a detailed explanation on the improvements.
-  * All the students must be respectful towards each other and abide by the previously defined rules.
-  * Manchester robotics reserves the right to provide any form of grading. Grading and grading methodology are done by the professor in charge of the unit.
+
   
