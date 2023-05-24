@@ -23,13 +23,13 @@
   * This challenge aims to show the behaviour of Control, Localisation, Vision and Neural Networks in mobile robotics.
 
   ### Camera Lens
-      * Folder containing information on how to install the wide-angle camera lens to the robot.
+  * Folder containing information on how to install the wide-angle camera lens to the robot.
   ### Gazebo Simulator
-      * Folder containing the gazebo simulator, files, and instructions to be used for this challenge.
+  * Folder containing the gazebo simulator, files, and instructions to be used for this challenge.
   ### Traffic Lights
-      * Folder containing the information on how to install and use the Traffic Lights with the Puzzletrack.
+  * Folder containing the information on how to install and use the Traffic Lights with the Puzzletrack.
   ### Traffic Signs
-      * Folder containing the information on how to install and use the Traffic Signs with the Puzzletrack.
+  * Folder containing the information on how to install and use the Traffic Signs with the Puzzletrack.
       
 
 
