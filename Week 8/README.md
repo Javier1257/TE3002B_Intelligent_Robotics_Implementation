@@ -51,6 +51,16 @@
 ---
 
 ## Useful Links: 
+#### Machine Learning
+  * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)
+  * [Machine Learning Course](https://www.tensorflow.org/resources/learn-ml?gad=1&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF_DOVyienJaRisWCaPayBboZh7kgRr7XokSHVn3_y1Q03SAy70fJbcaAvosEALw_wcB)
+  * [Machine Learning Book](https://developers.google.com/machine-learning/crash-course/ml-intro)
+  * [Deep Learning for Large-Scale Traffic-Sign Detection and Recognition](https://arxiv.org/abs/1904.00649)
+  * [Machine Learning: A Probabilistic Perspective](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
+  * [Neural Networks Fundamentals Video](https://www.youtube.com/watch?v=aircAruvnKk&t=143s)
+  * [CNN Fundamentals Video](https://www.youtube.com/watch?v=QzY57FaENXg&t=260s)
+  * [Deep Learning Book](https://www.deeplearningbook.org/)
+
 ### OpenCV and Robot Vision
  * [Robot Vision](https://mitpress.mit.edu/9780262537377/robot-vision/)
  * [Computer Vision Book](https://www.cs.ccu.edu.tw/~damon/tmp/SzeliskiBook_20100903_draft.pdf)
