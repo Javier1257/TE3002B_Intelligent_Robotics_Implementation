@@ -17,7 +17,9 @@
  This week will introduce the basics of Neural Networks and its implementation on the Puzzlebot.
  
   ## Files for this session
-  * [yolo_rec](https://www.dropbox.com/s/0td8i9evhs3yyi8/yolo_rec.tar.xz?dl=0)
+  * [activities and instal files](my.sharepoint.com/:f:/g/personal/mario_mtz_manchester-robotics_com/EqsMKMm4UqJCmhnUHEI-xE0B6J-UlYj9kd1KGNxGt3T5AQ?e=kehrqy)
+  * [ultralitics git](https://github.com/ultralytics/yolov5)
+  * [nvidia jetson nano](https://github.com/dusty-nv/jetson-inference/tree/master)
 
   ## Session 1
   *	Introduction to neural networks
