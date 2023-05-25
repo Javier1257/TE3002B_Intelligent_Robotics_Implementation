@@ -16,10 +16,14 @@
  
  This week will introduce the **MCR2 / NVIDIA / Tec de Monterrey Final Challenge.**
 
- ## :alarm_clock: Challenge Date
- Challenge Date: **June 15th 2023**
+ ## :alarm_clock: Deadlines
  
- [Timer](https://free.timeanddate.com/countdown/i8uzgn8i/n155/cf100/cm0/cu5/ct0/cs1/ca0/co1/cr0/ss0/cac09f/cpc000/pcfff/tc66c/fs100/szw448/szh189/tatMCR2%20Final%20Challenge/tac000/tptStart!/tpc000/iso2023-06-15T13:00:00)
+[Final Presentation](https://free.timeanddate.com/countdown/i8uzgn8i/n155/cf100/cm0/cu5/ct0/cs1/ca0/co1/cr0/ss0/cac09f/cpc000/pcfff/tc66c/fs100/szw448/szh189/tatMCR2%20Final%20Challenge/tac000/tptStart!/tpc000/iso2023-06-15T13:00:00): **15 June 2023, 1 PM (Central Mexico Time)**  
+
+[Video Submission Deadline](https://free.timeanddate.com/countdown/i8v4lyqi/n155/cf100/cm0/cu5/ct0/cs1/ca0/co1/cr0/ss0/cac09f/cpc000/pcfff/tcfff/fn3/fs150/szw448/szh189/tatVideo%20Submission%20Deadline/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2023-06-14T16:00:00): **14 June 2023, 4 PM (Central Mexico Time)**
+
+[Final Track Publication](https://free.timeanddate.com/countdown/i8v4m97i/n155/cf100/cm0/cu5/ct0/cs0/ca0/co1/cr0/ss0/cac09f/cpc000/pcfff/tcfff/fs150/szw448/szh189/tatFinal%20Track%20Publication/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2023-06-08T13:00:00): **8 June 2023, 1 PM (Central Mexico Time)**
+ 
 
 ---
 
